@@ -1,1 +1,1 @@
-# Hawaii-Weather-API
+# API-Global-Weather-Data
